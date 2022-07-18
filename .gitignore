@@ -1,0 +1,9 @@
+*bin/
+*main.exe
+*main.o
+*obj/
+*c.workspace
+*c.layout
+*.cbp
+*.layout
+*.depend
